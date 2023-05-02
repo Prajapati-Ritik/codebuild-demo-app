@@ -13,4 +13,4 @@ app.get('/error', (req, res) => {
   process.exit(1);
 });
 
-app.listen(8080);
+app.listen(80);
